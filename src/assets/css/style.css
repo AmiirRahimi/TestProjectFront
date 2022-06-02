@@ -1,0 +1,17 @@
+.error {
+    border: 2px solid red !important;
+    border-radius: 5px !important;
+    background-color: pink !important;
+    color: black !important;
+}
+
+.success {
+    border: 2px solid green !important;
+    border-radius: 5px !important;
+    background-color: lightgreen !important;
+    color: black !important;
+}
+
+.checkboxerror {
+    color: red;
+}
